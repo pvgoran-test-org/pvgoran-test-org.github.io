@@ -17,7 +17,7 @@ author:
 
 comments                 : true # set it to false to disable comments
 disqus:
-  shortname              : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  shortname              : "pvgoran-test-org" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
